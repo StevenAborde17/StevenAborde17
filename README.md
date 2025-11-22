@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I am Steven Aborde 👋
 
-<!--
-**StevenAborde17/StevenAborde17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a BS Computer Science student currently exploring different ideas and fields in coding with a commitment to build a strong foundation in programming and to improve my critical thinking along the way. I enjoy programming and database handling, which is a meaningful way to sharpen my skills to guide me towards my career as a data analyst.
 
-Here are some ideas to get you started:
+## 🧑‍🎓 Education
+- **Bachelor of Science in Computer Science**
+  New Era University
+  2024 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- 
+
+## 🛠️ Skillsets
+- **Programming:** Java
+- **Tools:** IntelliJ, Eclipse, Lucidchart, HTML
+- **Database:** SQL
+
