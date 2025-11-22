@@ -4,8 +4,8 @@ Welcome to my GitHub profile. I am a BS Computer Science student currently explo
 
 ## 🧑‍🎓 Education
 - **Bachelor of Science in Computer Science**
-  New Era University
-  2024 - Present
+- New Era University
+- 2024 - Present
 
 ## 📜 Certifications
 - 
@@ -15,3 +15,6 @@ Welcome to my GitHub profile. I am a BS Computer Science student currently explo
 - **Tools:** IntelliJ, Eclipse, Lucidchart, HTML
 - **Database:** SQL
 
+## 📫 Contacts
+- **Email:** stevenkeilaborde@gmail.com
+- **LinkedIn:** Steven Aborde [https://www.linkedin.com/in/steven-aborde-bb19a7360/]
