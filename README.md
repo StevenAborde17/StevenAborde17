@@ -9,7 +9,7 @@ a strong foundation in programming and to improve my critical thinking along the
 - 2024 - Present
 
 ## 📜 Certifications
-- 
+- [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/e4c43442da84469e8d988add48a9e897)
 
 ## 🛠️ Skillsets
 - **Programming:** Java
@@ -18,4 +18,4 @@ a strong foundation in programming and to improve my critical thinking along the
 
 ## 📫 Contacts
 - **Email:** stevenkeilaborde@gmail.com
-- **LinkedIn:** Steven Aborde [https://www.linkedin.com/in/steven-aborde-bb19a7360/]
+- **LinkedIn:** [Steven Aborde](https://www.linkedin.com/in/steven-aborde-bb19a7360/)
