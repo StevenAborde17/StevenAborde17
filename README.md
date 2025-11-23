@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I am a BS Computer Science student currently explo
 a strong foundation in programming and to improve my critical thinking along the way.
 
 ## 🧑‍🎓 Education
-- **Bachelor of Science in Computer Science** <br>
+- **Bachelor of Science in Computer Science** <br />
 - New Era University
 - 2024 - Present
 
