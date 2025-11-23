@@ -4,9 +4,9 @@ Welcome to my GitHub profile. I am a BS Computer Science student currently explo
 a strong foundation in programming and to improve my critical thinking along the way.
 
 ## 🧑‍🎓 Education
-- **Bachelor of Science in Computer Science** <br />
-- New Era University
-- 2024 - Present
+- **Bachelor of Science in Computer Science** 
+ New Era University
+ 2024 - Present
 
 ## 📜 Certifications
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/e4c43442da84469e8d988add48a9e897)
