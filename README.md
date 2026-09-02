@@ -1,7 +1,7 @@
 ## Hi, I am Steven Aborde 👋
 
-Welcome to my GitHub profile. I am a BS Computer Science student currently exploring different ideas and fields in coding with a commitment to build
-a strong foundation in programming and to improve my critical thinking along the way.
+Welcome to my GitHub profile. I am a 3rd Year BS Computer Science student, aspiring to be a data analyst with interest in programming 
+while also still trying to improve my critical thinking along the way.
 
 ## 🧑‍🎓 Education
 - **Bachelor of Science in Computer Science**<br>
